@@ -9,7 +9,7 @@
 
 .welcome > h1 {
   font-weight: 100px;
-  font-size: 144px;
+  font-size: 100px;
   left: 46px;
   top: 30%;
   position: absolute;
@@ -23,7 +23,7 @@
   justify-content: center;
   flex-direction: column;
   padding: 20px 50px;
-  right: 25%;
+  right: 15%;
   top: 25%;
   background: #ffffff;
   border-radius: 5px;
